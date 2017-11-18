@@ -1,0 +1,26 @@
+{
+  "name": "openlabs2017-acessibilidade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenderpmachado/openlabs2017-acessibilidade.git"
+  },
+  "keywords": [
+    "openlabs",
+    "acessibilidade"
+  ],
+  "author": "Wender Pinto Machado <wenderpmachado@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenderpmachado/openlabs2017-acessibilidade/issues"
+  },
+  "homepage": "https://github.com/wenderpmachado/openlabs2017-acessibilidade#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2"
+  }
+}
